@@ -21,6 +21,6 @@
 
 | NAME | PRICE | Pertemuan |
 | ----------- | ----------- | ----------- | 
-| Bundling 1 | 48000 | 16 |
-| Bundling 2 | 
+| Bundling 1 | 48000 | 6 |
+| Bundling 2 | 180000 | 16 |
 
